@@ -141,9 +141,52 @@
           <div class="col-xs-12">
             <button class="btn btn-primary btn-xl btn-float pull-right" >Upload Student</button>
           </div>
+           <div class="col-xs-12">
+            <div class="section-title in-progress">
+              <h2 class="h3">Faculty   <button class="btn btn-default btn-sm" >Email Access</button></h2>
+              <div class="in-progress-bar"></div>
+            </div>
+          </div>
+          <div class="col-xs-12">
+            <div class="main-content">
+              <div class="row section">
+                <div id="table-member" class="table-responsive">
+                  <table class="table table-hover  table-striped">
+                    <thead>
+                      <tr>
+                        <th>ID #</th>
+                        <th>Name</th>
+                        <th>Course</th>
+                        <th>Year</th>
+                        <th>Role</th>
+                        <th>Email</th>
+                        <th>Password</th>
+                        <th>Settings</th>
+                      </tr>
+                    </thead>
+                    <tbody id="cTable">
+                       <tr>
+                        <td>7654321</td>
+                        <td>Adviser Name</td>
+                        <td>BSIT</td>
+                        <td>2017</td>
+                        <td>Faculty</td>
+                        <td>Adviser@shcool.com</td>
+                        <td>*******</td>
+                        <td><button class="btn btn-default btn-sm btn-block"  data-toggle="modal" data-target="#newPM">Edit</button></td>
+                      </tr>
+                    </tbody>
+                  </table>   
+                </div>
+                <div class="col-md-12 text-center">
+                <ul class="pagination pagination-lg pager" id="fPager"></ul>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="col-xs-12">
             <div class="section-title in-progress">
-              <h2 class="h3">COMCEL   <button class="btn btn-default btn-sm" >Email Access</button></h2>
+              <h2 class="h3">COMSEL   <button class="btn btn-default btn-sm" >Email Access</button></h2>
               <div class="in-progress-bar"></div>
             </div>
           </div>
@@ -170,7 +213,7 @@
                         <td>Ronnel Sanchez</td>
                         <td>BSIT</td>
                         <td>2017</td>
-                        <td>COMCEL</td>
+                        <td>COMSEL</td>
                         <td>ronnel@shcool.com</td>
                         <td>*******</td>
                         <td><button class="btn btn-default btn-sm btn-block"  data-toggle="modal" data-target="#newPM">Edit</button></td>
@@ -180,7 +223,7 @@
                         <td>Lyka Labrada</td>
                         <td>BSIT</td>
                         <td>2017</td>
-                        <td>COMCEL</td>
+                        <td>COMSEL</td>
                         <td>lyka@shcool.com</td>
                         <td>*******</td>
                         <td><button class="btn btn-default btn-sm btn-block"  data-toggle="modal" data-target="#newPM">Edit</button></td>
@@ -223,7 +266,7 @@
                         <td>Ronnel Sanchez</td>
                         <td>BSIT</td>
                         <td>2017</td>
-                        <td>COMCEL</td>
+                        <td>Student</td>
                         <td>ronnel@shcool.com</td>
                         <td>*******</td>
                         <td><button class="btn btn-default btn-sm btn-block"  data-toggle="modal" data-target="#newPM">Edit</button></td>
@@ -233,7 +276,7 @@
                         <td>Lyka Labrada</td>
                         <td>BSIT</td>
                         <td>2017</td>
-                        <td>COMCEL</td>
+                        <td>Student</td>
                         <td>lyka@shcool.com</td>
                         <td>*******</td>
                         <td><button class="btn btn-default btn-sm btn-block"  data-toggle="modal" data-target="#newPM">Edit</button></td>
@@ -932,7 +975,8 @@
 };
 
 $(document).ready(function(){
-    
+      $('#sTable').pageMe({pagerSelector:'#fPager',showPrevNext:true,hidePageNumbers:false,perPage:4});
+
   $('#sTable').pageMe({pagerSelector:'#cPager',showPrevNext:true,hidePageNumbers:false,perPage:4});
   $('#sTable').pageMe({pagerSelector:'#sPager',showPrevNext:true,hidePageNumbers:false,perPage:4});
 

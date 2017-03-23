@@ -1,0 +1,32 @@
+<html>
+<head><title>Working With forms</title></head>
+   <style>
+   img {height:30% width:40%}
+   </style>
+ <body bgcolor="aqua"> 
+ <form action="css.css" method="get">
+       <img src="candidate12.jpg"> <br>
+<table border="2px">
+<tr>
+<td>
+Candidate Name : 
+</td>
+<td>
+<input type="text" name="firstname"></br>
+</td>
+</tr>
+<tr>
+<td>Select Gender :</td>
+<td>
+<input type="radio" name="gender">Male
+<input type="radio" name="gender">Female<br>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input type="submit" value"GO">
+</tr>
+</table>
+</form>
+ </body>
+</html>

@@ -131,6 +131,7 @@ footer{
 
 .heading{
 padding: 15px 0 15px;
+word-break: break-word;
 }
 
 #sub-nav{

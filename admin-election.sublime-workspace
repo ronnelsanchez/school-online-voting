@@ -1,0 +1,844 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"date",
+				"dateAdded"
+			],
+			[
+				"ele",
+				"electionDesc"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"he",
+				"header\t<header>"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"brand",
+				"brand-primary"
+			],
+			[
+				"bs3-al",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"h",
+				"hide"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text-c",
+				"text-success \tBootstrap 3 Class"
+			],
+			[
+				"table",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"pull",
+				"pull-right \tBootstrap 3 Class"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"tab-",
+				"tab-pane \tBootstrap 3 Class"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"modal",
+				"modalDetails"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"hidde",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"hidden",
+				"hidden-lg \tBootstrap 3 Class"
+			],
+			[
+				"hidd",
+				"hidden-sm \tBootstrap 3 Class"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"for",
+				"form-horizontal \tBootstrap 3 Class"
+			],
+			[
+				"un",
+				"list-unstyled \tBootstrap 3 Class"
+			],
+			[
+				"btn-l",
+				"btn-link \tBootstrap 3 Class"
+			],
+			[
+				"im",
+				"img-thumbnail \tBootstrap 3 Class"
+			],
+			[
+				"img",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"label-d",
+				"label-default \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"label-",
+				"label-warning \tBootstrap 3 Class"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"nav",
+				"nav-justified \tBootstrap 3 Class"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"inline",
+				"list-inline \tBootstrap 3 Class"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"list",
+				"list-unstyled \tBootstrap 3 Class"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"button",
+				"bs3-button\tbs3-button"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"hidden-",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"hi",
+				"hidden-xs \tBootstrap 3 Class"
+			],
+			[
+				"div",
+				"nav-divider \tBootstrap 3 Class"
+			],
+			[
+				"col-l",
+				"col-lg-6 \tBootstrap 3 Class"
+			],
+			[
+				"media",
+				"media-object \tBootstrap 3 Class"
+			],
+			[
+				"me",
+				"media \tBootstrap 3 Class"
+			],
+			[
+				"la",
+				"label\t<label> with <input>"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"gray",
+				"gray-lighter"
+			],
+			[
+				"lis",
+				"list-unstyled \tBootstrap 3 Class"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"input-",
+				"input-lg \tBootstrap 3 Class"
+			],
+			[
+				"col-",
+				"col-lg-8 \tBootstrap 3 Class"
+			],
+			[
+				"r",
+				"req"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ex",
+				"expressValidator"
+			],
+			[
+				"cooki",
+				"cookieParser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"expre",
+				"express-handlebars"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bar",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bs3-navbar",
+				"bs3-navbar\tbs3-navbar"
+			],
+			[
+				"fix",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"bs3-col",
+				"bs3-col:4\tbs3-col-4"
+			],
+			[
+				"li",
+				"list-inline \tBootstrap 3 Class"
+			],
+			[
+				"navr",
+				"navbar-brand \tBootstrap 3 Class"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"bs3-n",
+				"bs3-navbar:basic\tbs3-navbar-basic"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar\tbs3-navbar"
+			],
+			[
+				"navbar-",
+				"navbar-btn \tBootstrap 3 Class"
+			],
+			[
+				"btn-",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"bs3-ta",
+				"bs3-table:responsive\tbs3-table-responsive"
+			],
+			[
+				"b3-c",
+				"bs3-col:12\tbs3-col-12"
+			],
+			[
+				"b3",
+				"bs3-table\tbs3-table"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"  {",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/web-projects/school-online-voting/admin.html",
+		"/C/xampp/htdocs/school-voting/functions.php",
+		"/D/web-projects/Yazyk_Analytics/js/scripts.js",
+		"/D/web-projects/school-online-voting/vote-page.html",
+		"/D/web-projects/school-voting-system/css/styles.css",
+		"/D/web-projects/school-voting-system/scss/bootstrap/_navs.scss",
+		"/D/web-projects/school-voting-system/scss/bootstrap/_forms.scss",
+		"/D/web-projects/school-voting-system/comcel.html",
+		"/D/web-projects/school-voting-system/admin.html",
+		"/D/web-projects/school-voting-system/vote-page.html",
+		"/D/web-projects/school-voting-system/js/scripts.js",
+		"/D/web-projects/school-voting-system/admin-election.html",
+		"/D/web-projects/school-voting-system/index.html",
+		"/D/web-projects/school-voting-system/welcome-vote.html",
+		"/D/web-projects/school-voting-system/scss/bootstrap/_variables.scss",
+		"/D/web-projects/school-voting-system/scss/bootstrap/_input-groups.scss",
+		"/D/web-projects/school-voting-system/candidates-vote.html",
+		"/D/web-projects/school-voting-system/login.html",
+		"/D/web-projects/school-voting-system/comcel-result.html",
+		"/D/web-projects/school-voting-system/js/jquery.min.js",
+		"/D/web-projects/school-voting-system/dashboard.html",
+		"/D/web-projects/school-voting-system/project-page.html",
+		"/D/web-projects/school-voting-system/scss/bootstrap/_navbar.scss",
+		"/D/web-projects/school-voting-system/css/yazyk-ronnelsanchez.map",
+		"/D/web-projects/electron/ya-electron/package.json",
+		"/D/web-projects/electron/ya-electron/main.js",
+		"/D/web-projects/electron/ya-electron/index.html",
+		"/D/web-projects/electron/ya-electron/js/scripts.js",
+		"/D/web-projects/electron/ya-electron/js/jquery.js",
+		"/D/web-projects/Yazyk_Analytics/css/styles.css",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_modals.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_navs.scss",
+		"/D/web-projects/Yazyk_Analytics/project-page.html",
+		"/D/web-projects/Yazyk_Analytics/admin.html",
+		"/D/web-projects/Yazyk_Analytics/index.html",
+		"/D/web-projects/Yazyk_Analytics/translator-page.html",
+		"/D/web-projects/Yazyk_Analytics/company-page.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_labels.scss",
+		"/D/web-projects/Yazyk_Analytics/dashboard.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_variables.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_labels.scss",
+		"/D/web-projects/Yazyk_Analytics/Register.html",
+		"/D/web-projects/Yazyk_Analytics/forgot-password.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_buttons.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_buttons.scss",
+		"/D/web-projects/Yazyk_Analytics/css/login.css",
+		"/D/web-projects/EDM/MyAssets/EDM-MYASSETS.html",
+		"/D/web-projects/EDM/MyAssets/EDM-MYASSETS_v2.html",
+		"/D/web-projects/business/landing-page.html",
+		"/C/Users/ronnels/Desktop/EDM/Marketo-Template_1col-banner.html",
+		"/C/Users/ronnels/Desktop/EDM/eDM-Copy-Template_1column.docx",
+		"/C/Users/ronnels/Desktop/EDM/Marketo-Template_1col-nobanner.html",
+		"/E/Work File/Old Files/Work/myToken/EDM/myToken.html",
+		"/D/EDM/PEA-EDM/Password New Template.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_dropdowns.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/font-awesome/_variables.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_mixins.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap-select/bootstrap-select.scss",
+		"/D/web-projects/Yazyk_Analytics/pm.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_list.scss",
+		"/D/web-projects/Yazyk_Analytics/js/bootstrap.js",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_list.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_list.css",
+		"/D/web-projects/Yazyk_Analytics/css/date-picker/datepicker.css",
+		"/C/Users/ronnels/AppData/Local/Temp/Rar$DRa0.034/js/bootstrap-datepicker.js",
+		"/C/Users/ronnels/AppData/Local/Temp/Rar$DRa0.955/css/bootstrap-datepicker3.css",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_text-emphasis.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_type.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/yazyk-ronnelsanchez.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_panels.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_normalize.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_theme.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_list-group.scss",
+		"/D/web-projects/Yazyk_Analytics/pm-dashboard.html",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_forms.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/_navbar.scss",
+		"/D/web-projects/Yazyk_Analytics/scss/bootstrap/mixins/_tab-focus.scss",
+		"/D/web-projects/translate/js/scripts.js",
+		"/D/web-projects/translate/scss/bootstrap/_thumbnails.scss",
+		"/D/web-projects/translate/css/styles.css",
+		"/D/web-projects/translate/scss/bootstrap/_normalize.scss",
+		"/D/web-projects/translate/scss/bootstrap/_forms.scss",
+		"/D/web-projects/translate/scss/bootstrap/_mixins.scss",
+		"/D/web-projects/translate/scss/bootstrap/_variables.scss",
+		"/D/web-projects/translate/scss/bootstrap/_panels.scss",
+		"/D/web-projects/translate/scss/bootstrap/_navbar.scss",
+		"/D/web-projects/translate/scss/bootstrap/_type.scss",
+		"/D/web-projects/translate/scss/bootstrap/_scaffolding.scss",
+		"/D/web-projects/translate/scss/bootstrap/_labels.scss",
+		"/D/web-projects/translate/dashboard.html",
+		"/D/web-projects/translate/scss/yazyk-ronnelsanchez.scss",
+		"/D/web-projects/translate/scss/font-awesome/font-awesome.scss",
+		"/D/web-projects/Resume/index.html",
+		"/D/web-projects/Resume/css/bootstrap.css",
+		"/D/web-projects/Resume/css/styles.css",
+		"/D/web-projects/people-management/scss/base/_variables.scss",
+		"/D/web-projects/people-management/scss/modules/_blocks.scss",
+		"/D/web-projects/people-management/scss/modules/_sections.scss",
+		"/D/web-projects/people-management/scss/modules/_typography.scss",
+		"/D/web-projects/translate/index.html",
+		"/D/web-projects/translate/scss/bootstrap/_theme.scss",
+		"/D/web-projects/people-management/index.html",
+		"/D/web-projects/translate/css/login.css",
+		"/D/web-projects/translate/scss/bootstrap/mixins/_forms.scss",
+		"/D/web-projects/translate/scss/bootstrap/_buttons.scss",
+		"/D/web-projects/translate/scss/bootstrap/mixins/_buttons.scss",
+		"/D/web-projects/translate/scss/bootstrap/_utilities.scss",
+		"/D/web-projects/translate/scss/bootstrap/_close.scss",
+		"/D/web-projects/translate/scss/bootstrap/_code.scss",
+		"/D/web-projects/translate/scss/bootstrap/_component-animations.scss",
+		"/D/web-projects/translate/scss/bootstrap/_list-group.scss",
+		"/D/web-projects/translate/scss/bootstrap/_media.scss",
+		"/D/web-projects/translate/scss/bootstrap/_print.scss",
+		"/D/web-projects/translate/scss/bootstrap/_responsive-embed.scss",
+		"/D/web-projects/translate/scss/bootstrap/_responsive-utilities.scss",
+		"/D/web-projects/people-management/scss/base/_mixins.scss",
+		"/D/web-projects/people-management/scss/layouts/_nav.scss",
+		"/D/web-projects/people-management/scss/layouts/_header.scss",
+		"/D/web-projects/people-management/scss/modules/_components.scss",
+		"/D/web-projects/people-management/scss/modules/_buttons.scss",
+		"/D/web-projects/people-management/scss/main.scss",
+		"/D/web-projects/people-management/css/main.css",
+		"/D/bootstrap-sass-3.3.7/package.json",
+		"/D/bootstrap-sass-3.3.7/assets/javascripts/bootstrap.js",
+		"/D/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap.scss",
+		"/D/bootstrap-sass-3.3.7/assets/javascripts/bootstrap/button.js",
+		"/D/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/D/bootstrap-sass-3.3.7/assets/stylesheets/_bootstrap-mincer.scss"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"create",
+			"admin-",
+			".htm",
+			"log out",
+			"editElection",
+			"#editElection",
+			"session_is_registered",
+			"loginid",
+			"President",
+			"President\n",
+			"Activate Step 2",
+			"active",
+			"    \n",
+			"result",
+			"step-4",
+			"editElection",
+			"input-group-addon-bg",
+			"input-group-addon",
+			"script",
+			"banner",
+			">\n",
+			"new pr",
+			"heading",
+			"myPager",
+			"banner",
+			" Translator Name",
+			"<button type=\"button\" class=\"btn btn-default btn-block\">View Profile</button>",
+			"<a href=\"#\">View Profile</a>",
+			"conv",
+			"label",
+			"data-t",
+			"$font-size-base",
+			"here",
+			"tbody",
+			"project s",
+			"project",
+			"table",
+			"border-top: 4px solid #77bcf7;",
+			"wrapper",
+			"gmail",
+			"font-family:Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;",
+			"asse",
+			"icon-",
+			"class=\"gmail_msg\"",
+			"conver",
+			"view",
+			"email",
+			"col-lg-6",
+			".dropdown-menu",
+			"start",
+			"selectpicker",
+			"loca",
+			"mobile",
+			"smart",
+			"smail",
+			"phone",
+			"email",
+			"script",
+			"testing",
+			"newProject",
+			"17",
+			"modal",
+			"translato",
+			"main-content",
+			"button",
+			"pri",
+			"$color",
+			" $color",
+			"$parent",
+			"text-",
+			"conversation-input",
+			"left",
+			"change",
+			"#pdTab",
+			"date",
+			"area",
+			"text",
+			".divider",
+			"<i",
+			").\n",
+			"color:",
+			"inherit",
+			"chat",
+			"mTab",
+			"project-media",
+			"manangement-bar",
+			"translator-list ",
+			"font",
+			"control",
+			"  \n",
+			"trans",
+			"border-",
+			"btn-primary-bg",
+			"-outline-",
+			"outlin",
+			"manage",
+			"padding",
+			"view prof",
+			"warnin",
+			"font",
+			"$nav-link-padding",
+			"navbar",
+			"   $navbar-padding-vertical",
+			"brand",
+			"$navbar-collapse-max-height",
+			"max-he",
+			"max-",
+			"<i",
+			"font",
+			"war",
+			"brand",
+			"#",
+			"after",
+			"border-ra",
+			"defaul",
+			";\n",
+			"transpare",
+			"shadow",
+			"border-rad",
+			"border-radius-base",
+			"padding",
+			"$text-color",
+			"$brand-secondary",
+			"label",
+			"$text-color",
+			"a ",
+			"a",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Next",
+			"<a href=\"./translator-page.html\" type=\"button\" class=\"btn btn-default btn-block\">View Profile</a>",
+			"<a href=\"./translator-page.html\">View Profile</a>",
+			"border-top: 4px solid #630e15;",
+			"font-family:Open Sans, open-sans, sans-serif;",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "admin-election.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
